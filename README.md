@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm working as an SDET with 3+ years of experience. I have developed, de-livered and tested high-quality software solutions. My expertise includes Web and API testing. I have collaborated with cross-functional teams to analyze requirements, and implement automated solutions. I possess a solid foundation in data structures, algorithms, and problem-solving, allowing for eﬃcient and optimized code implementation. <br>I am an adaptable professional committed to continuous learning with<br>excellent communica-tion skills, and ability to deliver solutions that <br>meet both business and end-user needs. I'm excited to continue learning and grow in this field, and I'm always open to new projects and collaborations.
+# 👨🏻‍💻 About Me:
+I'm working as an SDET with 3+ years of experience. I have developed, delivered and tested high-quality software solutions. My expertise includes Web and API testing. I have collaborated with cross-functional teams to analyze requirements, and implement automated solutions. I possess a solid foundation in data structures, algorithms, and problem-solving, allowing for eﬃcient and optimized code implementation. <br>I am an adaptable professional committed to continuous learning with excellent communication skills, and ability to deliver solutions that meet both business and end-user needs. I'm excited to continue learning and grow in this field, and I'm always open to new projects and collaborations.
 
 
 ## 🌐 Socials:
